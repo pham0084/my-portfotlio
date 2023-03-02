@@ -58,7 +58,7 @@ function Footer() {
               <a href="#projects">Projects</a>
             </li>
             <li className="text-gray-500 text-md pb-2 font-semibold hover:text-[#5C9EAD] cursor-pointer">
-              <a href="#projects">Contact</a>
+              <a href="#contact">Contact</a>
             </li>
           </ul>
         </div>
