@@ -65,12 +65,12 @@ const BasicCard: React.FC<BasicCardProps> = ({
           color="#4b5563"
           sx={{
             display: "-webkit-box",
-            "-webkit-line-clamp": 3,
-            "-webkit-box-orient": "vertical",
+            WebkitLineClamp: 3,
+            WebkitBoxOrient: "vertical",
             overflow: "hidden",
             textOverflow: "ellipsis",
             "@media screen and (max-width: 767px)": {
-              "-webkit-line-clamp": "unset",
+              WebkitLineClamp: "unset",
               display: "block",
               maxHeight: "4em",
               overflow: "hidden",

@@ -1,6 +1,5 @@
 import React from "react";
 import { SocialIcon } from "react-social-icons";
-import Link from "next/link";
 
 function Footer() {
   return (
@@ -46,34 +45,21 @@ function Footer() {
         <div className="p-5">
           <ul>
             <p className="text-gray-800 font-bold text-2xl pb-4">Content</p>
-            <Link href="#about">
-              <li className="text-gray-500 text-md pb-2 font-semibold hover:text-[#5C9EAD] cursor-pointer">
-                <a href="#about">About</a>
-              </li>
-            </Link>
-
-            <Link href="#experience">
-              <li className="text-gray-500 text-md pb-2 font-semibold hover:text-[#5C9EAD] cursor-pointer">
-                <a href="#experience">Experience</a>
-              </li>
-            </Link>
-
-            <Link href="#skills">
-              <li className="text-gray-500 text-md pb-2 font-semibold hover:text-[#5C9EAD] cursor-pointer">
-                <a href="#skills">Skills</a>
-              </li>
-            </Link>
-
-            <Link href="#projects">
-              <li className="text-gray-500 text-md pb-2 font-semibold hover:text-[#5C9EAD]cursor-pointer">
-                <a href="#projects">Projects</a>
-              </li>
-            </Link>
-            <Link href="#contact">
-              <li className="text-gray-500 text-md pb-2 font-semibold hover:text-[#5C9EAD] cursor-pointer">
-                <a href="#projects">Contact</a>
-              </li>
-            </Link>
+            <li className="text-gray-500 text-md pb-2 font-semibold hover:text-[#5C9EAD] cursor-pointer">
+              <a href="#about">About</a>
+            </li>
+            <li className="text-gray-500 text-md pb-2 font-semibold hover:text-[#5C9EAD] cursor-pointer">
+              <a href="#experience">Experience</a>
+            </li>
+            <li className="text-gray-500 text-md pb-2 font-semibold hover:text-[#5C9EAD] cursor-pointer">
+              <a href="#skills">Skills</a>
+            </li>
+            <li className="text-gray-500 text-md pb-2 font-semibold hover:text-[#5C9EAD]cursor-pointer">
+              <a href="#projects">Projects</a>
+            </li>
+            <li className="text-gray-500 text-md pb-2 font-semibold hover:text-[#5C9EAD] cursor-pointer">
+              <a href="#projects">Contact</a>
+            </li>
           </ul>
         </div>
       </div>
@@ -81,9 +67,9 @@ function Footer() {
         <h1 className=" text-gray-800 font-semibold">
           © 2022-2023 All rights reserved | Build by{" "}
           <span className="hover:text-[#5C9EAD] font-semibold cursor-pointer">
-            <Link href="https://www.youtube.com/watch?v=FvOpPeKSf_4&ab_channel=88rising">
-              Pham Viet Hung{" "}
-            </Link>
+            <a href="https://www.youtube.com/watch?v=FvOpPeKSf_4&ab_channel=88rising">
+              Pham Viet Hung
+            </a>
           </span>
         </h1>
       </div>

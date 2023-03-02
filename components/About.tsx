@@ -26,7 +26,7 @@ export default function About({}: Props) {
           Here is my little background
         </h4>
         <br></br>
-        <p className="text-md codefont text-gray-500">
+        <div className="text-md codefont text-gray-500">
           <ul>
             <li>
               NTU student with a passion for software, football, and coffee
@@ -48,7 +48,7 @@ export default function About({}: Props) {
               continue learning and growing in the field
             </li>
           </ul>
-        </p>
+        </div>
       </div>
     </div>
   );
