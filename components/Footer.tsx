@@ -67,7 +67,7 @@ function Footer() {
         <h1 className=" text-gray-800 font-semibold">
           © 2022-2023 All rights reserved | Build by{" "}
           <span className="hover:text-[#5C9EAD] font-semibold cursor-pointer">
-            <a href="https://www.youtube.com/watch?v=FvOpPeKSf_4&ab_channel=88rising" targer="_blank">
+            <a href="https://www.youtube.com/watch?v=FvOpPeKSf_4&ab_channel=88rising" >
               Pham Viet Hung
             </a>
           </span>
