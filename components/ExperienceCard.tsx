@@ -21,7 +21,7 @@ function ExperienceCard({
   skills,
 }: Props) {
   return (
-    <article className=" flex flex-col round-lg items-center space-y-7 flex-shrink-0 w-[500px] md:w-[600px] xl:w-[900px] snap-center bg-[#5C9EAD]/5 p-10 cursor-pointer hover:bg-[#5C9EAD]/10  transition-opacity duration-100 ">
+    <article className=" flex flex-col round-lg items-center space-y-7 flex-shrink-0 w-[500px] md:w-[600px] xl:w-[800px] snap-center bg-[#5C9EAD]/5 p-10 cursor-pointer hover:bg-[#5C9EAD]/10  transition-opacity duration-100 ">
       <motion.img
         initial={{
           y: -100,
