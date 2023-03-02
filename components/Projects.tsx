@@ -63,10 +63,10 @@ function Projects({}: Props) {
           </Grid>
           <Grid item xs={12} sm={6}>
             <BasicCard
-              project="My Awesome Project"
+              project="SimpleChatBot"
               tag="React"
-              description="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac quam id nisi consequat posuere. Praesent eu nisi ac leo viverra tristique. Nulla dapibus justo sit amet dolor condimentum, at dapibus sapien lobortis. Quisque quis neque vel enim finibus tristique."
-              url="https://github.com"
+              description="Get to know the basic syntax of JavaScript and write a simple program using variables, conditions, loops, and functions."
+              url="https://github.com/pham0084/SimpleChatBot"
             />
           </Grid>
         </Grid>
