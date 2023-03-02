@@ -1,6 +1,6 @@
-import { motion } from 'framer-motion';
-import React from 'react';
-import Skill from './Skill';
+import { motion } from "framer-motion";
+import React from "react";
+import Skill from "./Skill";
 
 type Props = {};
 
@@ -36,7 +36,7 @@ function Skills({}: Props) {
         className="grid grid-cols-5 gap-7"
       >
         <Skill percentage={70} imageSrc="javascript.jpeg" />
-        <Skill percentage={75} imageSrc=" html5.jpeg"/>
+        <Skill percentage={75} imageSrc=" html5.jpeg" />
         <Skill percentage={65} imageSrc="css3.jpeg" />
         <Skill percentage={70} imageSrc="typescript.jpeg" />
         <Skill percentage={65} imageSrc="tailwind.jpeg" />

@@ -1,5 +1,5 @@
-import { motion } from 'framer-motion';
-import React from 'react';
+import { motion } from "framer-motion";
+import React from "react";
 
 type Props = {
   directionLeft?: boolean;
@@ -26,7 +26,9 @@ function Skill({ directionLeft = true, percentage, imageSrc }: Props) {
                      z-0"
       >
         <div className="flex items-center justify-center h-full">
-          <p className="text-3xl font-bold opacity-100 text-black">{percentage}%</p>
+          <p className="text-3xl font-bold opacity-100 text-black">
+            {percentage}%
+          </p>
         </div>
       </div>
     </div>
