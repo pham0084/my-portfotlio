@@ -1,5 +1,5 @@
-import { motion } from 'framer-motion';
-import React from 'react';
+import { motion } from "framer-motion";
+import React from "react";
 
 type Props = {
   company: string;
@@ -40,19 +40,16 @@ function ExperienceCard({
         <p className="font-bold text-2xl mt-1">{jobTitle}</p>
         <div className="flex space-x-2 my-2">
           {skills.map((skill) => (
-            <img
-              key={skill}
-              className="h-10 w-10 "
-              src={skill}
-              alt=""
-            />
+            <img key={skill} className="h-10 w-10 " src={skill} alt="" />
           ))}
         </div>
-        <p className='text-gray-400'>
+        <p className="text-gray-400">
           Started work: {startDate} - to: {endDate}
         </p>
-        <ul className="list-disc space-y-0 ml-5 max-h-40 text-lg overflow-y-scroll pr-5 scrollbar-thin
-                         scrollbar-track-[#EEEEEE]/20 scrollbar-thumb-[#5C9EAD]/60 text-gray-500">
+        <ul
+          className="list-disc space-y-0 ml-5 max-h-40 text-lg overflow-y-scroll pr-5 scrollbar-thin
+                         scrollbar-track-[#EEEEEE]/20 scrollbar-thumb-[#5C9EAD]/60 text-gray-500"
+        >
           {description.map((desc) => (
             <li key={desc}>{desc}</li>
           ))}
