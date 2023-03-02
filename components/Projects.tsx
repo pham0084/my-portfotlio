@@ -65,7 +65,7 @@ function Projects({}: Props) {
             <BasicCard
               project="SimpleChatBot"
               tag="React"
-              description="Get to know the basic syntax of JavaScript and write a simple program using variables, conditions, loops, and functions."
+              description="This is a simple chatbot using Javascript. This is a basic JavaScript program designed to help to learn about the language's syntax and how to use variables, conditions, loops, and functions to create simple programs, such as a chatbot."
               url="https://github.com/pham0084/SimpleChatBot"
             />
           </Grid>
