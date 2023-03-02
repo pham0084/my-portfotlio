@@ -10,7 +10,7 @@ export default function Hero({}: Props) {
     words: [
       "Hi, I am Pham Viet Hung.",
       "EEE@NTU Student",
-      "Specialized in ComputerEngineering",
+      "Specialized in Computer Engineering",
       "Really-love-to-play-soccer",
       "<LoveToCodeToo />",
     ],
