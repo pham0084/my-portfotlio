@@ -18,7 +18,7 @@ const Home: NextPage = () => {
                       scrollbar scrollbar-track-[#EEEEEE]/20 scrollbar-thumb-[#5C9EAD]/60  "
     >
       <Head>
-        <title>Pham's Portfolio</title>
+        <title>Pham Viet 's Portfolio</title>
       </Head>
       {/* Header*/}
       <Header />
