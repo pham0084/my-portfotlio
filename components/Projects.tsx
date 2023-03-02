@@ -22,6 +22,7 @@ function Projects({}: Props) {
               description="This AI tool app built on Streamlit library provides a powerful and user-friendly tool through web interface for accessing key information from healthcare-related academic literature. 
                           Its natural language processing capabilities and intuitive user interface make it an essential AI tool for anyone working in the healthcare industry."
               url="https://github.com/pham0084/AIRST-research-paper-summarization"
+              target="_blank"
             />
           </Grid>
           <Grid item xs={12} sm={6}>
@@ -31,6 +32,7 @@ function Projects({}: Props) {
               description="This repository contains code for a deep learning model that detects cancerous cells in histopathologic images using computer vision. 
                         The model utilizes ViT (Vision Transformer) and CovNExt (Convolutional Neural Network with Extra-Width and Random-Erasing Augmentation) architectures for training."
               url="https://github.com/pham0084/Histopathologic-Cancer-Detection"
+              target="_blank"
             />
           </Grid>
           <Grid item xs={12} sm={6}>
@@ -40,6 +42,7 @@ function Projects({}: Props) {
               description="This is a vision-based people counting system for queue management in public areas. It uses YOLOv3 with DarkNet53 Backbone and mixed precision training.
            You can run the demo on webcam or video. Clone the repo and follow the instructions to set up the dependencies and download the model configs and weights."
               url="https://github.com/pham0084/dlw-queue-monitor"
+              target="_blank"
             />
           </Grid>
           <Grid item xs={12} sm={6}>
@@ -50,6 +53,7 @@ function Projects({}: Props) {
               description="This repository contains a cinema recommendation system in Python using Pygame and Pygame-menu libraries. It offers an interactive menu with pricing information for multiple movie theater chains,
          and utilizes sorting algorithms and pattern recognition to suggest cinemas based on location, price, and availability."
               url="https://github.com/pham0084/cinema-recommendation-systems"
+              target="_blank"
             />
           </Grid>
           <Grid item xs={12} sm={6}>
@@ -59,6 +63,7 @@ function Projects({}: Props) {
               description="This is my portfolio website, built with Next.js and TypeScript. It showcases my skills, experience, and projects with a clean design. Fully responsive, optimized for different devices,
          and enhanced with Material UI and framer motion. Code available on GitHub for easy customization. Thanks for visiting!"
               url="https://github.com/pham0084/nextjs-ts-portfolio"
+              target="_blank"
             />
           </Grid>
           <Grid item xs={12} sm={6}>
@@ -67,6 +72,7 @@ function Projects({}: Props) {
               tag="React"
               description="This is a simple chatbot using Javascript. This is a basic JavaScript program designed to help to learn about the language's syntax and how to use variables, conditions, loops, and functions to create simple programs, such as a chatbot."
               url="https://github.com/pham0084/SimpleChatBot"
+              target="_blank"
             />
           </Grid>
         </Grid>
@@ -85,6 +91,7 @@ function Projects({}: Props) {
             target="_blank"
             fgColor="gray"
             bgColor="transparent"
+            target="_blank"
           />
         </div>
       </div>
