@@ -54,7 +54,7 @@ function Footer() {
             <li className="text-gray-500 text-md pb-2 font-semibold hover:text-[#5C9EAD] cursor-pointer">
               <a href="#skills">Skills</a>
             </li>
-            <li className="text-gray-500 text-md pb-2 font-semibold hover:text-[#5C9EAD]cursor-pointer">
+            <li className="text-gray-500 text-md pb-2 font-semibold hover:text-[#5C9EAD] cursor-pointer">
               <a href="#projects">Projects</a>
             </li>
             <li className="text-gray-500 text-md pb-2 font-semibold hover:text-[#5C9EAD] cursor-pointer">
