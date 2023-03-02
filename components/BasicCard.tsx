@@ -42,7 +42,7 @@ const BasicCard: React.FC<BasicCardProps> = ({
     >
       <CardContent>
         <Typography sx={{ fontSize: 18 }} color="#5C9EAD" gutterBottom>
-          <Link href={url}>
+          <Link href={url} target="_blank">
             <Typography
               sx={{ textDecoration: "underline", fontWeight: "bold" }}
               component="span"
