@@ -86,7 +86,7 @@ To deploy the project to Vercel, follow these steps:
 4. Deploy the project.
 
 Once the deployment is complete, you can view the website at the URL provided by Vercel. 
-<br>They gave me a really nice URL free : https://pvh.vercel.app/ which make me feel really happy and lucky </br>
+<br>They gave me a really nice URL free : https://pvh.vercel.app/ which make me feel really happy and lucky. </br>
 
 ## Conclusion
 
