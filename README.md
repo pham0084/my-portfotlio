@@ -92,4 +92,13 @@ Once the deployment is complete, you can view the website at the URL provided by
 
 These are the main technologies used in this project. By combining these tools, I was able to create a fast, responsive, and visually appealing personal portfolio website. If you're interested in learning more about any of these technologies, I encourage you to check out their respective documentation pages.
 
+## License
+
+This project is licensed under the [Apache License 2.0](LICENSE).
+
+The Apache License is a permissive open-source software license that allows you to use, modify, and distribute the software licensed under it. It requires that you include a copy of the license and any copyright notices with any distribution of the software. The license also provides an explicit patent grant and an explicit disclaimer of warranties and liability.
+
+For more information, see the [LICENSE](LICENSE) file.
+
+
 
