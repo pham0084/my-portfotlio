@@ -33,7 +33,7 @@ export default function Header({}: Props) {
         />
         <SocialIcon
           className="icon-hover"
-          url="https://github.com/pham0084"
+          url="https://github.com/pvhuwung"
           target="_blank"
           fgColor="gray"
           bgColor="transparent"
