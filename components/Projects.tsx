@@ -81,7 +81,7 @@ function Projects({}: Props) {
           <SocialIcon
             style={{ height: 90, width: 90 }}
             className="icon-hover "
-            url="https://github.com/pham0084"
+            url="https://github.com/pvhuwung"
             target="_blank"
             fgColor="gray"
             bgColor="transparent"
